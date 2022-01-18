@@ -53,3 +53,7 @@ a:visited {
 .footer {
     height: 80px;
 }
+
+.zoom-meeting {
+    text-decoration: underline;
+}
